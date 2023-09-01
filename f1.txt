@@ -1,2 +1,6 @@
 aasdads
+<<<<<<< HEAD
 s
+=======
+c
+>>>>>>> 38cc337d4636ba80ff29e57bf80cce5c934666b3
